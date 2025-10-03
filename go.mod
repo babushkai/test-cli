@@ -1,3 +1,3 @@
-module github.com/Alliander/aix-test-cli
+module github.com/babushkai/aix-test-cli
 
 go 1.24.5
